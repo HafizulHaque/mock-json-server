@@ -1,24 +1,78 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post-1",
-      "desc": "lorem ipsum 1"
+      "id": 3,
+      "title": "Repudiandae ipsum atque ipsum unde qui a ut libero porro.",
+      "slug": "est-officiis-placeat",
+      "content": "Odio enim nisi incidunt. Quam enim repellendus. Unde delectus aliquid. Animi omnis quia repudiandae. Voluptatum harum et et accusamus quis et dolorem incidunt. Dolore quisquam perferendis ex amet aut. Pariatur et distinctio in qui sint excepturi deserunt nihil. Voluptatem eum eius sed. Cum aut expedita vel. Voluptas sunt ut est et neque eveniet aliquam.",
+      "hit": 333498,
+      "category": {
+        "id": 2
+      },
+      "user": {
+        "id": 29
+      },
+      "status": "draft",
+      "status_color": "orange",
+      "createdAt": "2023-08-30T18:24:41.545Z",
+      "publishedAt": "2023-12-03T15:59:18.672Z",
+      "image": [
+        {
+          "url": "http://loremflickr.com/640/480/abstract",
+          "name": "7f444409-4a7d-4d73-9730-12a02f811082",
+          "status": "done",
+          "type": "image/jpeg",
+          "uid": "f3dd83e5-fda6-48d0-973c-aa0cb9bfc45e"
+        }
+      ],
+      "tags": [10, 3],
+      "language": 2
     },
     {
-      "id": 2,
-      "title": "Post-2",
-      "desc": "lorem ipsum 2"
+      "id": 4,
+      "title": "Ut sed et quis voluptatem qui repellendus.",
+      "slug": "commodi-iure-repellat",
+      "content": "Unde et ducimus ut vero consectetur quo. Laborum qui sequi deleniti. Ipsum nobis necessitatibus voluptatem omnis. Architecto debitis voluptas. Quam et qui repellat voluptatum excepturi ut fuga ab. Itaque corrupti ducimus doloribus vitae porro. Est architecto enim deleniti doloremque recusandae culpa provident. Qui aspernatur ut. Recusandae possimus molestiae qui nesciunt fuga. Officia est reiciendis et aut et.",
+      "hit": 276849,
+      "category": {
+        "id": 5
+      },
+      "user": {
+        "id": 24
+      },
+      "status": "draft",
+      "status_color": "orange",
+      "createdAt": "2023-12-21T23:35:25.903Z",
+      "publishedAt": "2024-04-17T15:44:39.161Z",
+      "image": [
+        {
+          "url": "http://loremflickr.com/640/480/abstract",
+          "name": "c7b9bb70-9393-4139-9790-2a9a0acb0478",
+          "status": "done",
+          "type": "image/jpeg",
+          "uid": "7254c140-9a9f-4f71-8c57-cdbb3bf364b5"
+        }
+      ],
+      "tags": [2, 4],
+      "language": 3
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "name": "user-1"
-    },
+  "categories": [
     {
       "id": 2,
-      "name": "user-2"
+      "title": "Smartphones & Tablets"
+    },
+    {
+      "id": 3,
+      "title": "Audio & Video"
+    },
+    {
+      "id": 4,
+      "title": "Gaming"
+    },
+    {
+      "id": 5,
+      "title": "Home & Kitchen"
     }
   ]
 }
